@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/content_a"
+        android:title="Content A"
+        app:showAsAction="never"/>
+    <item android:id="@+id/content_b"
+        android:title="Content B"
+        app:showAsAction="never"/>
+    <item android:id="@+id/content_c"
+        android:title="Content C"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item_share"
+        android:title="Share"/>
+    <item
+        android:id="@+id/launch_ecommerce"
+        android:title="Ecommerce"/>
+</menu>
